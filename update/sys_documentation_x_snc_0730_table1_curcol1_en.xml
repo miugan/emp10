@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="curcol1" label="Curcol1" language="en" table="x_snc_0730_table1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>curcol1</element>
+            <help/>
+            <hint/>
+            <label>Curcol1</label>
+            <language>en</language>
+            <name>x_snc_0730_table1</name>
+            <plural>Curcol1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-30 01:13:10</sys_created_on>
+            <sys_id>510a96f5db1e1c902e2f623b4b961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Curcol1</sys_name>
+            <sys_package display_value="0730" source="x_snc_0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_0730_table1_curcol1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-30 01:13:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
