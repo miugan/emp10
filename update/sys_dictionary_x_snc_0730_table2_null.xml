@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="strcol1" table="x_snc_0730_table1">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_snc_0730_table2">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>strcol1</column_label>
+        <column_label/>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,15 +27,15 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>strcol1</element>
+        <element/>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
-        <max_length>20</max_length>
-        <name>x_snc_0730_table1</name>
+        <max_length>40</max_length>
+        <name>x_snc_0730_table2</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -51,17 +51,17 @@
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
-        <sys_created_by>motomi.iugan@snc</sys_created_by>
-        <sys_created_on>2020-08-04 08:11:19</sys_created_on>
-        <sys_id>9d8965af1bd25c9037e6db15cc4bcb1a</sys_id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-06 05:12:22</sys_created_on>
+        <sys_id>29e35b08db66d0102e2f623b4b961913</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>strcol1</sys_name>
+        <sys_name>x_snc_0730_table2</sys_name>
         <sys_package display_value="0730" source="x_snc_0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_package>
         <sys_policy/>
         <sys_scope display_value="0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_0730_table1_strcol1</sys_update_name>
-        <sys_updated_by>motomi.iugan@snc</sys_updated_by>
-        <sys_updated_on>2020-08-04 08:11:19</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_snc_0730_table2_null</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-06 05:12:22</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -3,62 +3,17 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>curcol1</element>
-            <list_id display_value="x_snc_0730_table1" element="NULL" name="x_snc_0730_table1" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cea1b1e31b165c9037e6db15cc4bcb77</list_id>
+            <list_id display_value="x_snc_0730_table1" element="NULL" name="x_snc_0730_table1" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">6bcd9eb9dbda1490a18ac17d13961989</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>motomi.iugan@snc</sys_created_by>
-            <sys_created_on>2020-08-04 08:46:11</sys_created_on>
-            <sys_id>06a1b1e31b165c9037e6db15cc4bcb78</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-30 01:29:43</sys_created_on>
+            <sys_id>2fcd9eb9dbda1490a18ac17d1396198a</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>motomi.iugan@snc</sys_updated_by>
-            <sys_updated_on>2020-08-04 08:46:11</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>intcol1</element>
-            <list_id display_value="x_snc_0730_table1" element="NULL" name="x_snc_0730_table1" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cea1b1e31b165c9037e6db15cc4bcb77</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>1</position>
-            <sum>false</sum>
-            <sys_created_by>motomi.iugan@snc</sys_created_by>
-            <sys_created_on>2020-08-04 08:46:11</sys_created_on>
-            <sys_id>86a1b1e31b165c9037e6db15cc4bcb78</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>motomi.iugan@snc</sys_updated_by>
-            <sys_updated_on>2020-08-04 08:46:11</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>strcol1</element>
-            <list_id display_value="x_snc_0730_table1" element="NULL" name="x_snc_0730_table1" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cea1b1e31b165c9037e6db15cc4bcb77</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>2</position>
-            <sum>false</sum>
-            <sys_created_by>motomi.iugan@snc</sys_created_by>
-            <sys_created_on>2020-08-04 08:46:11</sys_created_on>
-            <sys_id>0aa1b1e31b165c9037e6db15cc4bcb78</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>motomi.iugan@snc</sys_updated_by>
-            <sys_updated_on>2020-08-04 08:46:11</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>strcol2</element>
-            <list_id display_value="x_snc_0730_table1" element="NULL" name="x_snc_0730_table1" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cea1b1e31b165c9037e6db15cc4bcb77</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>3</position>
-            <sum>false</sum>
-            <sys_created_by>motomi.iugan@snc</sys_created_by>
-            <sys_created_on>2020-08-04 08:46:11</sys_created_on>
-            <sys_id>8aa1b1e31b165c9037e6db15cc4bcb78</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>motomi.iugan@snc</sys_updated_by>
-            <sys_updated_on>2020-08-04 08:46:11</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-30 01:29:43</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -71,19 +26,19 @@
             <relationship/>
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
-            <sys_created_by>motomi.iugan@snc</sys_created_by>
-            <sys_created_on>2020-08-04 08:46:11</sys_created_on>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-30 01:29:42</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>cea1b1e31b165c9037e6db15cc4bcb77</sys_id>
+            <sys_id>6bcd9eb9dbda1490a18ac17d13961989</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_snc_0730_table1</sys_name>
             <sys_package display_value="0730" source="x_snc_0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_package>
             <sys_policy/>
             <sys_scope display_value="0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_scope>
             <sys_update_name>sys_ui_list_x_snc_0730_table1_null</sys_update_name>
-            <sys_updated_by>motomi.iugan@snc</sys_updated_by>
-            <sys_updated_on>2020-08-04 08:46:11</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-30 01:29:42</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

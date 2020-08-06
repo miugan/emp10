@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="table1" max_length="40" name="x_snc_0730_table1" type="collection">
+    <element label="table1" max_length="40" name="x_snc_0730_table1" sizeclass="0" type="collection">
         <element attributes="omit_sys_original=true" label="Curcol1" max_length="14" name="curcol1" type="currency"/>
-        <element label="Intcol1" max_length="20" name="intcol1" type="integer"/>
-        <element label="strcol1" max_length="20" name="strcol1" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Strcol2" max_length="40" name="strcol2" type="string"/>
     </element>
 </database>
