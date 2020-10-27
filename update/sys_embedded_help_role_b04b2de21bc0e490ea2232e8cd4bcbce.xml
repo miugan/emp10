@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_0730.emp7_tbl1_user" name="x_snc_0730.emp7_tbl1_user">e44be9e21bc0e490ea2232e8cd4bcb9f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-27 05:34:13</sys_created_on>
+        <sys_id>b04b2de21bc0e490ea2232e8cd4bcbce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e44be9e21bc0e490ea2232e8cd4bcb9f</sys_name>
+        <sys_package display_value="0730" source="x_snc_0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b04b2de21bc0e490ea2232e8cd4bcbce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-27 05:34:13</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="emp7-tbl1" max_length="40" name="x_snc_0730_emp7_tbl1" type="collection">
+        <element label="ref sys_user_group" max_length="32" name="u_refgrp" reference="sys_user_group" type="reference"/>
+        <element label="ref sys_user" max_length="32" name="u_refuser" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="u_refgrp"/>
+        </index>
+        <index name="index2">
+            <element name="u_refuser"/>
+        </index>
+    </element>
+</database>
