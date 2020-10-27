@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-30 01:13:10</sys_created_on>
-        <sys_id>35ba61e21bc0e490ea2232e8cd4bcb48</sys_id>
+        <sys_id>6f3339ea1bc0e490ea2232e8cd4bcb80</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_0730_table1</sys_name>
         <sys_package display_value="0730" source="x_snc_0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_0730_table1_NULL</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-27 05:31:51</sys_updated_on>
+        <sys_updated_on>2020-10-27 06:09:08</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
