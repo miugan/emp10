@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_snc_0730_table2">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_snc_0730_tab1">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
-        <calculation/>
-        <choice>0</choice>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label/>
@@ -27,10 +32,10 @@
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="">UNKNOWN</internal_type>
+        <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_snc_0730_table2</name>
+        <name>x_snc_0730_tab1</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -47,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-11-02 08:20:51</sys_created_on>
-        <sys_id>db37344adba3b010a18ac17d1396195d</sys_id>
+        <sys_created_on>2021-05-31 06:46:50</sys_created_on>
+        <sys_id>e6435a081b687410ea2232e8cd4bcbff</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>x_snc_0730_table2</sys_name>
+        <sys_name>x_snc_0730_tab1</sys_name>
         <sys_package display_value="0730" source="x_snc_0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_package>
         <sys_policy/>
         <sys_scope display_value="0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_0730_table2_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_snc_0730_tab1_null</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2021-11-02 10:29:41</sys_updated_on>
+        <sys_updated_on>2021-11-02 10:29:40</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

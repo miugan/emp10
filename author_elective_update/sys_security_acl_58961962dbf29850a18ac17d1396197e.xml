@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>false</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_snc_0730_table1</name>
+        <operation display_value="create">create</operation>
+        <script><![CDATA[false; // This ACL was created by uninstall. DO NOT EDIT]]></script>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-26 00:45:18</sys_created_on>
+        <sys_id>58961962dbf29850a18ac17d1396197e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_0730_table1</sys_name>
+        <sys_package display_value="0730" source="x_snc_0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_scope>
+        <sys_update_name>sys_security_acl_58961962dbf29850a18ac17d1396197e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-26 00:45:18</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="0730">71a91ab5db1e1c902e2f623b4b9619eb</application>
+        <file_path/>
+        <instance_id>19581448dbfbfb003050ac44d496194d</instance_id>
+        <instance_name>empmiugan4</instance_name>
+        <name>sys_security_acl_58961962dbf29850a18ac17d1396197e</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_security_acl"&gt;&lt;sys_security_acl action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;admin_overrides&gt;false&lt;/admin_overrides&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;condition/&gt;&lt;description/&gt;&lt;name&gt;x_snc_0730_table1&lt;/name&gt;&lt;operation display_value="create"&gt;create&lt;/operation&gt;&lt;script&gt;&lt;![CDATA[false; // This ACL was created by uninstall. DO NOT EDIT]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_security_acl&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-08-26 00:45:18&lt;/sys_created_on&gt;&lt;sys_id&gt;58961962dbf29850a18ac17d1396197e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_snc_0730_table1&lt;/sys_name&gt;&lt;sys_package display_value="0730" source="x_snc_0730"&gt;71a91ab5db1e1c902e2f623b4b9619eb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="0730"&gt;71a91ab5db1e1c902e2f623b4b9619eb&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_security_acl_58961962dbf29850a18ac17d1396197e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-08-26 00:45:18&lt;/sys_updated_on&gt;&lt;type display_value="record"&gt;record&lt;/type&gt;&lt;/sys_security_acl&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1611499207</payload_hash>
+        <record_name>x_snc_0730_table1</record_name>
+        <reverted_from/>
+        <source>34cb6430db233010a18ac17d13961993</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2021-10-29 10:18:19</sys_created_on>
+        <sys_id>e8277c0adba3b010a18ac17d139619ad</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17ccb8eb1f80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Access Control</type>
+        <update_guid>a8277c0adda3b010089ddaaa4cba16ad</update_guid>
+        <update_guid_history>a8277c0adda3b010089ddaaa4cba16ad:-1611499207</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-02 08:20:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>1d639318fc744c009d1c3234fb8acde4</sys_id>
+        <sys_metadata>58961962dbf29850a18ac17d1396197e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_0730_table1</sys_name>
+        <sys_package display_value="0730" source="x_snc_0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_package>
+        <sys_parent display_value="x_snc_0730_table1">f82b56f5dbda1490a18ac17d1396196d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_scope>
+        <sys_scope_delete display_value="">9ed21e9f520c4fc0aa7f53d209fb7d90</sys_scope_delete>
+        <sys_update_name>sys_security_acl_58961962dbf29850a18ac17d1396197e</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_58961962dbf29850a18ac17d1396197e">e8277c0adba3b010a18ac17d139619ad</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-02 08:20:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

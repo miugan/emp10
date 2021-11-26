@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Imp Asset</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_hmsp_iscf_itdm2_imp_asset</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-27 02:25:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fd71568d1b7ba410ea2232e8cd4bcb2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Asset</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="0730" source="x_snc_0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_scope>
+        <sys_update_name>sys_app_module_fd71568d1b7ba410ea2232e8cd4bcb2b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-27 02:25:41</sys_updated_on>
+        <timeline_page/>
+        <title>Imp Asset</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="0730">71a91ab5db1e1c902e2f623b4b9619eb</application>
+        <file_path/>
+        <instance_id>0fb0ce1cdb05cc1052cec59705961936</instance_id>
+        <instance_name>empmiugan7</instance_name>
+        <name>sys_app_module_fd71568d1b7ba410ea2232e8cd4bcb2b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Imp Asset</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_hmsp_iscf_itdm2_imp_asset</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-27 02:25:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fd71568d1b7ba410ea2232e8cd4bcb2b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Imp Asset</sys_name><sys_overrides/><sys_package display_value="0730" source="x_snc_0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_package><sys_policy/><sys_scope display_value="0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_scope><sys_update_name>sys_app_module_fd71568d1b7ba410ea2232e8cd4bcb2b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-27 02:25:41</sys_updated_on><timeline_page/><title>Imp Asset</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>467420153</payload_hash>
+        <record_name>Imp Asset</record_name>
+        <reverted_from/>
+        <source>7ddf8ec41b8e281009de0e9cdc4bcb1a</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-27 02:25:42</sys_created_on>
+        <sys_id>3171568d1b7ba410ea2232e8cd4bcb58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179112584fd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-27 02:25:42</sys_updated_on>
+        <type>Module</type>
+        <update_guid>f571568d1b7ba4101978d8df71a92e57</update_guid>
+        <update_guid_history>f571568d1b7ba4101978d8df71a92e57:467420153,bd71568d577ba410bfa7abe2d4f94655:-1534263464,b571568dd77ba410b5386810f0195554:467420153</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">1c3a4bec1b88741009de0e9cdc4bcbb3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-08 03:32:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>3b155f9cfe0e4859b63c43566371b3c9</sys_id>
+        <sys_metadata>fd71568d1b7ba410ea2232e8cd4bcb2b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Asset</sys_name>
+        <sys_package display_value="0730" source="x_snc_0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_scope>
+        <sys_scope_delete display_value="">9ed21e9f520c4fc0aa7f53d209fb7d90</sys_scope_delete>
+        <sys_update_name>sys_app_module_fd71568d1b7ba410ea2232e8cd4bcb2b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_fd71568d1b7ba410ea2232e8cd4bcb2b">3171568d1b7ba410ea2232e8cd4bcb58</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-08 03:32:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

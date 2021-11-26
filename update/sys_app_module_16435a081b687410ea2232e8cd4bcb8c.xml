@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="tab1">12435a081b687410ea2232e8cd4bcb7c</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>tab1s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_0730_tab1</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_0730.tab1_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-31 06:46:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>16435a081b687410ea2232e8cd4bcb8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tab1s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="0730" source="x_snc_0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_scope>
+        <sys_update_name>sys_app_module_16435a081b687410ea2232e8cd4bcb8c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-31 06:46:49</sys_updated_on>
+        <timeline_page/>
+        <title>tab1s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

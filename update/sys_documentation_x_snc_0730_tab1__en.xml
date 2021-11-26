@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="0730 Table2" language="en" table="x_snc_0730_table2">
+    <sys_documentation element="" label="tab1" language="en" table="x_snc_0730_tab1">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>0730 Table2</label>
+            <label>tab1</label>
             <language>en</language>
-            <name>x_snc_0730_table2</name>
-            <plural>0730 Table2s</plural>
+            <name>x_snc_0730_tab1</name>
+            <plural>tab1s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-11-02 08:20:51</sys_created_on>
-            <sys_id>5737344adba3b010a18ac17d1396195f</sys_id>
+            <sys_created_on>2021-05-31 06:46:51</sys_created_on>
+            <sys_id>b6439a081b687410ea2232e8cd4bcb09</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>0730 Table2</sys_name>
+            <sys_name>tab1</sys_name>
             <sys_package display_value="0730" source="x_snc_0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_package>
             <sys_policy/>
             <sys_scope display_value="0730">71a91ab5db1e1c902e2f623b4b9619eb</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_0730_table2__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_snc_0730_tab1__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-11-02 08:20:51</sys_updated_on>
+            <sys_updated_on>2021-05-31 06:46:51</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
